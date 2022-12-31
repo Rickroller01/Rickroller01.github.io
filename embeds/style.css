@@ -6,4 +6,26 @@
 .links {
     font-size: 30px;
     border: 3px solid green;
+    width: 500px;
+}
+
+.a {
+    border: 3px dashed red;
+}
+.b {
+    border: 3px dashed red;
+}
+.c {
+    border: 3px dashed red;
+}
+.d {
+    border: 3px dashed red;
+
+}
+.e{
+    border: 3px dashed red;
+}
+
+.lm {
+    margin: 15px;
 }
