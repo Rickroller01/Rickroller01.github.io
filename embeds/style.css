@@ -1,5 +1,5 @@
 .default {
-    color: rgb(255, 115, 0);
+    color: rgb(0, 50, 150);
     background-color:rgb(27, 27, 27);
 }
 
@@ -28,4 +28,9 @@
 
 .lm {
     margin: 15px;
+}
+
+.low {
+    background: rgb(27,193,195);
+    background: linear-gradient(0deg, rgba(27,193,195,1) 0%, rgba(27,27,27,1) 53%);
 }
