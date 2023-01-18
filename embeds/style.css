@@ -31,7 +31,21 @@
 }
 
 .low {
+    filter: blur(100);
     font-size: large;
     background: rgb(27,193,195);
     background: linear-gradient(0deg, rgba(27,193,195,1) 0%, rgba(27,27,27,1) 53%);
+}
+
+.fback{
+    display: inline-flexbox;
+    color: brown;
+    filter: brightness(1);
+}
+
+.Notice {
+    display: inline-flexbox;
+    color:coral;
+    padding-top: 5px;
+    margin-top: 5px;
 }
